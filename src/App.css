@@ -1,0 +1,9 @@
+body{
+    color:#fff;
+    background: radial-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)), rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#divSed{
+    background-color: transparent;
+}
